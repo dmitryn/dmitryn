@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+My name is Dmitry Novotochinov, but you can call me Dima (/dee-ma/).
+
+I'm software engineer based in Germany and I build mobile apps using React Native.
+
+Also, a Clojure language fanboy.
+
 <!--
 **dmitryn/dmitryn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
