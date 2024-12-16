@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 
 
 My name is Dmitry Novotochinov, but you can also call me Dima (/dee-ma/).
 
